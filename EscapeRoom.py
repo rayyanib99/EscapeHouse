@@ -1,5 +1,4 @@
 # Developer: Rayyan Abdulmunib
-# Class: IT-140: Intro to Scripting
 # Description: Escape House text-based game.
 # Date: 04/16/2023
 
